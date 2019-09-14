@@ -1,6 +1,6 @@
 # Flowers Image Classifier
 
-This project was completed as part of the Udacity Data Analyst Nanodegree program requirements
+This project was completed as part of the Udacity Data Scientist Nanodegree requirements.
 
 ## Project Overview
 
